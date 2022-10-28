@@ -1,3 +1,5 @@
+# Clean Code: Homework 1 - Solution
+
 LSP (_Liskov Substitution Principle_) is violated when we try to remove features. `NotImplementedException` (or similar) is the biggest violation sign.
 
 ![UML](https://github.com/bellmann-engineering/clean-code-homework/blob/5a36e378dd84daf110bf62e0b21a47a056dd29de/homework1_solution/uml.png)
