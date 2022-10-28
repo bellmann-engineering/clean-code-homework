@@ -34,7 +34,7 @@ The railway developer came up with the idea of using the SelfDrivingSystem as a 
 
 This looking like a good idea in first place turns out be problematic as trains cannot turn left or right due to the fact that they are on rails.
 
-<img src="[https://github.com/bellmann-engineering/clean-code-homework/blob/39dab82b57f560f8d66664ec80edc78a6e7fb619/homework1/inheritance_smell.png)" width=50% height=50%>
+<img src="https://github.com/bellmann-engineering/clean-code-homework/blob/39dab82b57f560f8d66664ec80edc78a6e7fb619/homework1/inheritance_smell.png" width=50% height=50%>
 
 ## Your Tasks
 1. Read and understand the following code: [inheritance_smell.cpp](https://github.com/bellmann-engineering/clean-code-homework/blob/b498ed8af38c3b67ff041f63b1f870eb425ad0e7/homework1/inheritance_smell.cpp) 
