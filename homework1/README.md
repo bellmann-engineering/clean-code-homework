@@ -30,9 +30,11 @@ class SelfDrivingSystem
 
 The railway developer came up with the idea of using the SelfDrivingSystem as a base because:
 
-![UML](https://github.com/bellmann-engineering/clean-code-homework/raw/master/homework1/uml_idea.png | width=60)
+![UML](https://github.com/bellmann-engineering/clean-code-homework/raw/master/homework1/uml_idea.png)
 
 This looking like a good idea in first place turns out be problematic as trains cannot turn left or right due to the fact that they are on rails.
 
 ![UML](https://github.com/bellmann-engineering/clean-code-homework/raw/master/homework1/inheritance_smell.png)
+
+https://github.com/bellmann-engineering/clean-code-homework/raw/master/homework1/inheritance_smell.cpp
  
