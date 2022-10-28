@@ -66,16 +66,6 @@ class Train : public Driveable
         {
             std::cout << "moving throttle up." << std::endl;
         }
-
-        void turnLeft() override
-        {
-            throw std::logic_error("no such function");
-        }
-
-        void turnRight() override
-        {
-            throw std::logic_error("no such function");
-        }
 };
 
 int main()
