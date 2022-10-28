@@ -31,4 +31,3 @@ A class can implement as many interfaces as it wants. The fewer the methods in t
 
 Find a full code sample here: [car_train_with_isp.cpp](https://github.com/bellmann-engineering/clean-code-homework/blob/master/homework1_solution/car_train_with_isp.cpp)
 
-homework1_solution/car_train_with_isp.cpp
