@@ -36,5 +36,5 @@ This looking like a good idea in first place turns out be problematic as trains 
 
 ![UML](https://github.com/bellmann-engineering/clean-code-homework/raw/master/homework1/inheritance_smell.png)
 
-https://github.com/bellmann-engineering/clean-code-homework/raw/master/homework1/inheritance_smell.cpp
- 
+[https://github.com/bellmann-engineering/clean-code-homework/raw/master/homework1/inheritance_smell.cpp
+](https://github.com/bellmann-engineering/clean-code-homework/blob/b498ed8af38c3b67ff041f63b1f870eb425ad0e7/homework1/inheritance_smell.cpp) 
