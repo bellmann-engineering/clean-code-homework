@@ -2,7 +2,8 @@
 
 _Feature envy_ is a term used to describe a situation in which one object gets at the fields of another object in order to perform some sort of computation or make a decision, rather than asking the object to do the computation itself.
 
-> Methods that make extensive use of another class may belong in another class. > Consider moving this method to the class it is so envious of.
+> Methods that make extensive use of another class may belong in another class. 
+> Consider moving this method to the class it is so envious of.
 
 Having this in mind we will now look at a piece of code and focus on the `doSomethingElse` method:
 
@@ -10,7 +11,7 @@ In the `Client` class below there are two methods. The doSomething method makes 
 
 ## Tasks:
 
-1. Examine the given code in terms of code smells: client_collab.cpp
+1. Examine the given code in terms of code smells: [client_collab.cpp](https://github.com/bellmann-engineering/clean-code-homework/blob/master/homework2/client_collab.cpp)
 2. Which rule was violated here?
 3. Improve the Design of Existing Code in two steps
  - Extract the body of `doSomethingElse` to a new method called `calculateSomething`. The intention is to move this newly extracted method onto `Collaborator`.
